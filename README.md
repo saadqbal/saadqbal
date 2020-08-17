@@ -1,16 +1,19 @@
-### Hi there 👋
+# Asad Iqbal 
+[![Twitter Badge](https://img.shields.io/badge/-@saadqbal-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/saadqbal)](https://twitter.com/saadqbal) [![Linkedin Badge](https://img.shields.io/badge/-saadiiqbal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saadiiqbal/)](https://www.linkedin.com/in/saadiiqbal/) [![Medium Badge](https://img.shields.io/badge/-@saadqbal-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@saadqbal/)](https://medium.com/@saadqbal/)
+[![Gmail Badge](https://img.shields.io/badge/-software.lord-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:software.lord@gmail.com)](mailto:software.lord@gmail.com)
 
-<!--
-**saadqbal/saadqbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi 👋, 
+I am a full stack developer.
+🏄‍♂️. 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on React Native Apps
+- 🌱 I’m currently learning ML with python
+- 💬 Ask me about: anything
+-  ⚡ Languages: Javascript, PHP, Solidity, Java, python, React, React Native,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+>
+
+
+---
+⭐️ From [saadqbal](https://github.com/saadqbal)
