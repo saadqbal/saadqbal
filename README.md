@@ -9,7 +9,7 @@ I am a full stack developer.
 - 🔭 I’m currently working on React Native Apps
 - 🌱 I’m currently learning ML with python
 - 💬 Ask me about: anything
--  ⚡ Languages: Javascript, PHP, Solidity, Java, python, React, React Native,
+-  ⚡ Languages: Javascript, Solidity, Java, python, React, React Native,
 
 
 >
